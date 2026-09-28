@@ -1,0 +1,1 @@
+proyecto para desarrollar alguna app capaz de gestionar citas en diferentes comercios
