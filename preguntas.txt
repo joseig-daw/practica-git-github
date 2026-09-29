@@ -1,0 +1,15 @@
+1. ¿Qué diferencia existe entre git add y git commit? 
+	-git add prepara los cambios realizados en tu proyecto y los deja listo para subir al repositorio
+	-git commit Sube los archivos pendientes al repositorio
+2. ¿Para qué sirve git status? 
+	-Sirve para comprobar el estado del proyecto que se guarda en el repositorio
+3. ¿Qué información podemos obtener con git log?
+	-Se puede observar un historial de los commits "versiones" del proyecto
+4. ¿Qué muestra git diff? 
+	-git diff muestra los cambios realizados en el repositorio local antes de hacer el commit
+5. ¿Qué ocurre si modificamos un archivo después de hacer un commit? 
+	-solamente se ve afectado en el repositorio local, este cambio no se aplicara si no vuelve hacer un git add + git commit
+6. ¿Es Git lo mismo que GitHub? Explica la diferencia.
+	-Git es el repositorio local que se almacena en un equipo, y github seria la "Nube" donde puedes subir tu repositorio y luego hacer uso desde otro equipo
+7. ¿Por qué es importante utilizar mensajes de commit descriptivos? 
+	-Principalmente para diferenciar bien los cambios en los proyectos y asi tener un contro de versiones
